@@ -31,3 +31,7 @@ cd mira-virtual-assistant
 1. Voice Activation: Click on the "Click Here to talk with Me" button to activate the voice recognition.
 2. Give Commands: Speak any command like "open YouTube" or "what is the time?" and Tara will respond accordingly.
 3. Visual Feedback: While listening, a GIF animation is displayed indicating that Tara is processing the user's input.
+
+![photo_6323485014691530091_w](https://github.com/user-attachments/assets/1a3d3b79-54c7-4ecc-9a41-424405c21e8f)
+
+
