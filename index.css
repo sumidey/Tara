@@ -85,3 +85,32 @@ h1{
     font-weight: 400;
     margin: 0px 5px;
 }
+
+@media (max-width: 768px) {
+    #logo{
+        width: 40vw;
+        margin-top: 6rem;
+    }
+
+    h1{
+        text-align: center;
+        justify-content: center;
+        font-size: 22px;
+    }
+
+    #name, #va{
+        font-size: 24px;
+    }
+
+    #btn{
+        width: 70%;
+    }
+
+    .hori{
+        margin-top: 5rem;
+    }
+
+    .footerBottom p{
+        margin-top: 1rem;
+    }
+}
