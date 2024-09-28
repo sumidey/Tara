@@ -1,4 +1,5 @@
 **Tara - Virtual Assistant**
+
 Tara is an interactive virtual assistant built using HTML, CSS, and JavaScript. It leverages the Web Speech API for voice recognition and speech synthesis, enabling users to interact with it using natural language commands. This project demonstrates the integration of voice commands to perform various tasks such as opening websites, telling the time, and more.
 *Features*: 
 1. Voice Recognition: Tara listens for voice commands using the SpeechRecognition API and processes the input to perform specific actions.
